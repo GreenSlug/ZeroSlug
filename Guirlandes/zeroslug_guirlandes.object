@@ -1,0 +1,35 @@
+{
+  "objectName" : "zeroslug_guirlandes",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : "250",
+
+  "description" : "Christmas Fairy lights! Yay! Oh fuck, they rolled in a huge knot. Let's just use it next year. Please?",
+  "shortdescription" : "A fairy light string.",
+  "race" : "generic",
+
+  "apexDescription" : "I like the yellow ones.",
+  "avianDescription" : "Christmas fairy lights! I wonder why they invented those in the first place.",
+  "floranDescription" : "Ssssilly lightsss.",
+  "glitchDescription" : "Intrigued. Decorations for a human holiday maybe.",
+  "humanDescription" : "Merry christmas!.",
+  "hylotlDescription" : "Those are called fairy light. While lacking in taste, it does light up the place, technically speaking.",
+
+  "inventoryIcon" : "zeroslug_guirlandes_icon.png",
+  "orientations" : [
+    {
+      "image" : "zeroslug_guirlandes.png:<frame>",
+      "imagePosition" : [0, 0],
+	  
+	  
+	  
+      "frames" : 6,
+      "animationCycle" : 0.5,
+      "spaces" : [
+        [-1, 0], [0, 0], [1, 0], [2, 0],
+        [-1, 1], [0, 1], [1, 1], [2, 1]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+	{ "item" : "copperbar", "count" : 1 },
+	{ "item" : "glass", "count" : 1 }
+  ],
+  "output" : { "item" : "zeroslug_guirlandes", "count" : 1 },
+  "groups" : [ "mod", "craftingtable", "furniture", "objects", "all" ]
+}

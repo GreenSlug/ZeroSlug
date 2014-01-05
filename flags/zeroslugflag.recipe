@@ -1,0 +1,8 @@
+{
+  "input" : [
+	{ "item" : "ironbar", "count" : 5 },
+	{ "item" : "fabric", "count" : 15 }
+  ],
+  "output" : { "item" : "zeroslugflag", "count" : 1 },
+  "groups" : [ "mod", "craftingtable", "furniture", "objects", "all" ]
+}

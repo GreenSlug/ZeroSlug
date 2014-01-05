@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 25 }
+  ],
+  "output" : { "item" : "greenslugposter", "count" : 1 },
+  "groups" : [ "mod", "craftingtable", "furniture", "objects", "all" ]
+}

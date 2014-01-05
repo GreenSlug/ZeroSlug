@@ -1,0 +1,31 @@
+{
+  "objectName" : "greenslugposter",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : "250",
+
+  "description" : "A wanted poster of a Green Slug. Said to be 'Sexy as fuck, and thus is looked for detention'.",
+  "shortdescription" : "A Green Slug poster.",
+  "race" : "generic",
+
+  "apexDescription" : "Whatever is written there, I don't think so.",
+  "avianDescription" : "'Wanted for being sexy as f-' Whoever made this must be narcissistic.",
+  "floranDescription" : "Printed paper with a sssslug design. Ssssaid to be wanted for being.. Sssseductive?",
+  "glitchDescription" : "Intrigued. Unable to understand.",
+  "humanDescription" : "That slug is wanted for being too sexy. Heh.",
+  "hylotlDescription" : "This earth crawling mollusque is wanted for being too attractive..",
+
+  "inventoryIcon" : "greenslugposter_icon.png",
+  "orientations" : [
+    {
+      "image" : "greenslugposter.png",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]	
+    }
+  ]
+}

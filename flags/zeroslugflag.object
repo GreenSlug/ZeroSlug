@@ -1,0 +1,36 @@
+{
+  "objectName" : "zeroslugflag",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : "250",
+
+  "description" : "A mighty flag flying the colors of the ZeroSlugs",
+  "shortdescription" : "A black SL0 Flag.",
+  "race" : "generic",
+
+  "apexDescription" : "I like the yellow ones.",
+  "avianDescription" : "Christmas fairy lights! I wonder why they invented those in the first place.",
+  "floranDescription" : "Ssssilly lightsss.",
+  "glitchDescription" : "Intrigued. Decorations for a human holiday maybe.",
+  "humanDescription" : "Merry christmas!.",
+  "hylotlDescription" : "Those are called fairy light. While lacking in taste, it does light up the place, technically speaking.",
+
+  "inventoryIcon" : "zeroslugflag_icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zeroslugflag.png:<frame>",
+      "imagePosition" : [0, 0],
+	  
+	  "anchors" : [ "bottom" ],
+	  
+      "frames" : 10,
+      "animationCycle" : 0.5,
+	  
+	  "spaces" : [
+        [-1, 0], [0, 0], [1, 0], [2, 0],
+        [-1, 1], [0, 1], [1, 1], [2, 1]
+      ]
+    }
+  ]
+}
