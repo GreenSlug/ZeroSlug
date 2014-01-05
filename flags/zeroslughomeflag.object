@@ -1,0 +1,31 @@
+{
+  "objectName" : "zeroslughomeflag",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : "250",
+
+  "description" : "But then, everything changed when the SlugZero Nation attacked.",
+  "shortdescription" : "A Sl0 flag.",
+  "race" : "generic",
+
+  "apexDescription" : "A flag about SL0.",
+  "avianDescription" : "This seem to be a flag about SL0.",
+  "floranDescription" : "It sseemsss to represent a clan or a nation, SSSSL0?",
+  "glitchDescription" : "Informative. The banner of the SL0 Clan.",
+  "humanDescription" : "That flag looks pretty cool I must say.",
+  "hylotlDescription" : "Not bad, for a non-hylotl banner.",
+
+  "inventoryIcon" : "zeroslugflag_icon.png",
+  "orientations" : [
+    {
+      "image" : "zeroslughomeflag.png",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]	
+    }
+  ]
+}
