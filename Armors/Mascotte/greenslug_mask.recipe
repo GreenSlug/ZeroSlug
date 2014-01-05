@@ -1,0 +1,8 @@
+{
+  "input" : [
+	{ "item" : "darkwoodmaterial", "count" : 5 },
+	{ "item" : "fabric", "count" : 5 }
+  ],
+  "output" : { "item" : "greenslug_mask", "count" : 1 },
+  "groups" : [ "mod", "furniture", "objects", "all" ]
+}
